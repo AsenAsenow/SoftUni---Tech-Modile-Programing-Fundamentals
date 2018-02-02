@@ -1,1 +1,3 @@
-# SoftUni---Tech-Modile-Programing-Fundamentals
+# SoftUni---Tech-Module-Programing-Fundamentals
+
+Exercise SoftUni-Tech Module-Programing Fundamentals 
