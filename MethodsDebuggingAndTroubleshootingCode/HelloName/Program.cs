@@ -15,6 +15,5 @@ namespace HelloName
         {
             return name;
         }
-        
     }
 }
