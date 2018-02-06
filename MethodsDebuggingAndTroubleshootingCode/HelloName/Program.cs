@@ -6,7 +6,15 @@ namespace HelloName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string enterName = Console.ReadLine();
+            
+            Console.WriteLine("Hello, {0}!", printName(enterName));    
         }
+
+        static string printName(string name)
+        {
+            return name;
+        }
+        
     }
 }

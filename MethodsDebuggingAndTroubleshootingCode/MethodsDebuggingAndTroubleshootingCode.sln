@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloName", "HelloName\HelloName.csproj", "{0FC1E46E-4B64-4EB2-B7FE-5FE68B8FA9AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloName", "HelloName\HelloName.csproj", "{0FC1E46E-4B64-4EB2-B7FE-5FE68B8FA9AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMethod", "MaxMethod\MaxMethod.csproj", "{A3542C13-517F-443D-B35D-EBECCB7AA203}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{C437EC59-0DDC-4A46-8CE3-502BD96868B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfTheLastDigit", "ConsoleApp2\EnglishNameOfTheLastDigit.csproj", "{F9AA5355-87DD-444A-A035-19C52F985513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInReversedOrder", "NumbersInReversedOrder\NumbersInReversedOrder.csproj", "{8AEFECF6-722F-484E-BE47-0E1CF6723A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{591A248D-04F1-4A4D-9E5F-0BF3AF5348F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{0FC1E46E-4B64-4EB2-B7FE-5FE68B8FA9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FC1E46E-4B64-4EB2-B7FE-5FE68B8FA9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FC1E46E-4B64-4EB2-B7FE-5FE68B8FA9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3542C13-517F-443D-B35D-EBECCB7AA203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3542C13-517F-443D-B35D-EBECCB7AA203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3542C13-517F-443D-B35D-EBECCB7AA203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3542C13-517F-443D-B35D-EBECCB7AA203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C437EC59-0DDC-4A46-8CE3-502BD96868B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C437EC59-0DDC-4A46-8CE3-502BD96868B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C437EC59-0DDC-4A46-8CE3-502BD96868B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C437EC59-0DDC-4A46-8CE3-502BD96868B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AA5355-87DD-444A-A035-19C52F985513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AA5355-87DD-444A-A035-19C52F985513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AA5355-87DD-444A-A035-19C52F985513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AA5355-87DD-444A-A035-19C52F985513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEFECF6-722F-484E-BE47-0E1CF6723A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEFECF6-722F-484E-BE47-0E1CF6723A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEFECF6-722F-484E-BE47-0E1CF6723A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEFECF6-722F-484E-BE47-0E1CF6723A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591A248D-04F1-4A4D-9E5F-0BF3AF5348F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591A248D-04F1-4A4D-9E5F-0BF3AF5348F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591A248D-04F1-4A4D-9E5F-0BF3AF5348F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591A248D-04F1-4A4D-9E5F-0BF3AF5348F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
